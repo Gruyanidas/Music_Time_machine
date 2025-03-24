@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+.venv/bin
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.idea/
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+
+
+# macOS and system files
+.DS_Store
+test.py
+search_data_returned.py
